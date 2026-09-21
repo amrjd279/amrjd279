@@ -46,14 +46,6 @@ Voici les technologies avec lesquelles je travaille, basées sur mon apprentissa
 
 ---
 
-## 📈 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrjd279&show_icons=true&theme=tokyonight&locale=fr" alt="Statistiques GitHub" />
-</p>
-
----
-
 ## 📫 Comment me contacter
 
 - **LinkedIn :** [Amr JADDAD](https://www.linkedin.com/in/amr-jaddad-605737395/)
