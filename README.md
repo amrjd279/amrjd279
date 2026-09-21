@@ -1,4 +1,4 @@
-# Bonjour, je suis [Amr Jaddad] 👋
+# Bonjour, je suis Amr Jaddad 👋
 
 ### 👨‍💻 Étudiant en Informatique & Développeur en devenir
 
