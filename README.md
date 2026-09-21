@@ -49,6 +49,7 @@ Voici les technologies avec lesquelles je travaille, basées sur mon apprentissa
 ## 📫 Comment me contacter
 
 Voici mon profil [**LinkedIn**](https://www.linkedin.com/in/amr-jaddad-605737395/)
+Voici mon [**CV**]([https://www.linkedin.com/in/amr-jaddad-605737395/](https://amrjd279.github.io/Projet-CV-JS_jQuery/)) 
 
 ---
 
