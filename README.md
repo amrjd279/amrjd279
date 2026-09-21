@@ -4,12 +4,17 @@
 
 Bienvenue sur mon profil GitHub ! Passionné par la programmation et la création de solutions numériques, je construis mes compétences à travers mes projets académiques et personnels.
 
+---
+
 ## 🎓 À propos de moi
 
 - 🏫 Je suis actuellement étudiant en **Bachelier Informatique (Option Développeur)** à la **HEH - Sciences et Technologies**.
 - 📅 J'ai débuté mon cursus en **2023** et je continue de développer mon expertise au quotidien.
+- 🧠 **Parcours & Résilience :** Vivant avec la dysphasie, je relève des défis de communication au quotidien. Cela m'a forgé une détermination sans faille et une grande capacité d'adaptation. La programmation est devenue pour moi un langage universel et structuré dans lequel je m'exprime pleinement et avec rigueur.
 - 💡 J'aime résoudre des problèmes complexes et apprendre de nouveaux langages ou frameworks.
 - 🎯 Je suis ouvert aux opportunités de projets, de stages ou de collaborations open source.
+
+---
 
 ## 🛠️ Langages et Outils
 
@@ -41,8 +46,18 @@ Voici les technologies avec lesquelles je travaille, basées sur mon apprentissa
 
 ---
 
+## 📈 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrjd279&show_icons=true&theme=tokyonight&locale=fr" alt="Statistiques GitHub" />
+</p>
+
+---
+
 ## 📫 Comment me contacter
 
-- **LinkedIn :** [https://www.linkedin.com/in/amr-jaddad-605737395/]
+- **LinkedIn :** [Amr JADDAD](https://www.linkedin.com/in/amr-jaddad-605737395/)
 
-⭐️ *Merci de visiter mon profil ! N'hésitez pas à jeter un œil à mes dépôts ci-dessous.*
+---
+
+> ### 💡 *« Je transforme vos idées, en sites performants »*
