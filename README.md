@@ -43,6 +43,6 @@ Voici les technologies avec lesquelles je travaille, basées sur mon apprentissa
 
 ## 📫 Comment me contacter
 
-- **LinkedIn :** [Cliquez ici pour voir mon profil](https://linkedin.com/in/ton-profil-linkedin)
+- **LinkedIn :** [Cliquez ici pour voir mon profil]([https://linkedin.com/in/ton-profil-linkedin](https://www.linkedin.com/in/amr-jaddad-605737395/))
 
 ⭐️ *Merci de visiter mon profil ! N'hésitez pas à jeter un œil à mes dépôts ci-dessous.*
