@@ -1,4 +1,4 @@
-# Bonjour, je suis [Ton Prénom/Nom] 👋
+# Bonjour, je suis [Amr Jaddad] 👋
 
 ### 👨‍💻 Étudiant en Informatique & Développeur en devenir
 
@@ -37,14 +37,6 @@ Voici les technologies avec lesquelles je travaille, basées sur mon apprentissa
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-</p>
-
----
-
-## 📈 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrjd279&show_icons=true&theme=tokyonight&locale=fr" alt="Statistiques GitHub" />
 </p>
 
 ---
