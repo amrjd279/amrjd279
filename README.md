@@ -267,9 +267,7 @@ Windows Server      ███████████████░░░░░
 
 ### 🚀 Ce que je veux continuer à apprendre
 
-- ☁️ Cloud Computing
 - 🐳 Docker & Kubernetes
-- 🔐 Cybersécurité
 - ⚛️ React & développement moderne
 - 🐍 Python avancé
 - 🗄️ Architecture des bases de données
