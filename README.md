@@ -4,15 +4,10 @@
 
 ### 💻 Étudiant en Informatique · Développeur Web en devenir · Passionné par la technologie
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%91%8B;Je+d%C3%A9veloppe+des+solutions+web+%F0%9F%92%BB;J%27apprends+chaque+jour+de+nouvelles+technologies+%F0%9F%9A%80;Code+%7C+Learn+%7C+Build+%7C+Improve+%F0%9F%94%A5" alt="Typing SVG" />
+
 <br>
 
-<a href="https://github.com/amrjd279">
-  <img src="https://komarev.com/ghpvc/?username=amrjd279&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-</a>
-
-<a href="https://github.com/amrjd279?tab=followers">
-  <img src="https://img.shields.io/github/followers/amrjd279?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub followers"/>
-</a>
 
 </div>
 
