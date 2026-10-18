@@ -1,55 +1,320 @@
-# Yooo, je suis Amr 👋
+<div align="center">
 
-### 👨‍💻 Étudiant en Informatique & Développeur en devenir
+# 👋 Hey, moi c'est **Amr Jaddad**
 
-Bienvenue sur mon profil GitHub ! Passionné par la programmation et la création de solutions numériques, je construis mes compétences à travers mes projets académiques et personnels.
+### 💻 Étudiant en Informatique · Développeur Web en devenir · Passionné par la technologie
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%91%8B;Je+d%C3%A9veloppe+des+solutions+web+%F0%9F%92%BB;J%27apprends+chaque+jour+de+nouvelles+technologies+%F0%9F%9A%80;Code+%7C+Learn+%7C+Build+%7C+Improve+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/amrjd279">
+  <img src="https://komarev.com/ghpvc/?username=amrjd279&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</a>
+
+<a href="https://github.com/amrjd279?tab=followers">
+  <img src="https://img.shields.io/github/followers/amrjd279?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub followers"/>
+</a>
+
+</div>
 
 ---
 
-## 🎓 À propos de moi
+## 👨‍💻 À propos de moi
 
-- 🏫 Je suis actuellement étudiant en **Bachelier Informatique (Option Développeur)** à la **HEH - Sciences et Technologies**.
-- 📅 J'ai débuté mon cursus en **2023** et je continue de développer mon expertise au quotidien.
-- 🧠 **Parcours & Résilience :** Vivant avec la dysphasie, je relève des défis de communication au quotidien. Cela m'a forgé une détermination sans faille et une grande capacité d'adaptation. La programmation est devenue pour moi un langage universel et structuré dans lequel je m'exprime pleinement et avec rigueur.
-- 💡 J'aime résoudre des problèmes complexes et apprendre de nouveaux langages ou frameworks.
-- 🎯 Je suis ouvert aux opportunités de projets, de stages ou de collaborations open source.
+🎓 Je suis étudiant en **Bachelier Informatique – Option Développement** à la **HEH – Sciences et Technologies**.
+
+💻 Je m'intéresse particulièrement au **développement web**, à la **programmation**, aux **bases de données**, aux **réseaux** et aux nouvelles technologies.
+
+🚀 Mon objectif est de continuer à progresser en développant des projets concrets et en transformant des idées en applications fonctionnelles.
+
+🧠 Mon parcours m'a appris à être **persévérant, rigoureux, autonome et adaptable**.
+
+💡 J'aime comprendre **comment les choses fonctionnent**, résoudre des problèmes et apprendre de nouvelles technologies.
+
+🎯 Je suis ouvert aux **projets, collaborations, stages et opportunités dans le domaine informatique**.
 
 ---
 
-## 🛠️ Langages et Outils
+# 🛠️ Technologies & Compétences
 
-Voici les technologies avec lesquelles je travaille, basées sur mon apprentissage :
+## 💻 Langages de programmation
 
-**Développement Web (Front-end & Back-end) :**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<table>
+<tr>
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+**Python**
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+
+**Java**
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+**JavaScript**
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+
+**PHP**
+
+</td>
+</tr>
+</table>
+
+### 📊 Niveau actuel
+
+```text
+Python        ████████████████░░░░  80%
+Java          ██████████████░░░░░░  70%
+JavaScript    ███████████████░░░░░  75%
+PHP           ████████████░░░░░░░░  60%
+```
+
+---
+
+# 🌐 Développement Web
+
+<table>
+<tr>
+<td align="center" width="130">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+**HTML5**
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
+**CSS3**
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+**JavaScript**
+
+</td>
+
+<td align="center" width="130">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
+**React**
+
+</td>
+</tr>
+</table>
+
+### 📊 Niveau actuel
+
+```text
+HTML5         ███████████████████░  90%
+CSS3          █████████████████░░░  85%
+JavaScript    ███████████████░░░░░  75%
+React         ████████████░░░░░░░░  60%
+```
+
+---
+
+# 🗄️ Bases de données
+
+<table>
+<tr>
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+**MySQL**
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+
+**SQLite**
+
+</td>
+</tr>
+</table>
+
+```text
+SQL / Bases de données    ██████████████░░░░░░  70%
+```
+
+---
+
+# 🌐 Réseaux & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="50"/>
+
+**Cisco**
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+
+**Linux**
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+**Docker**
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+
+**Kubernetes**
+
+</td>
+</tr>
+</table>
+
+```text
+Réseaux             ███████████████░░░░░  75%
+Linux               █████████████░░░░░░░  65%
+Docker              ████████████░░░░░░░░  60%
+Kubernetes          ██████████░░░░░░░░░░  50%
+Windows Server      ███████████████░░░░░  75%
+```
+
+---
+
+# 🔧 Outils
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+
 </p>
 
-**Programmation Logicielle & Bases de données :**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bases_de_données-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases" />
-</p>
+---
 
-**Infrastructures & Outils Bureautique :**
-<p>
-  <img src="https://img.shields.io/badge/Architecture_Réseaux-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="Réseaux" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-</p>
+# 📈 Mes statistiques GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrjd279&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrjd279&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📫 Comment me contacter
+# 🔥 Activité GitHub
 
-Voici mon profil [**LinkedIn**](https://www.linkedin.com/in/amr-jaddad-605737395/) & mon [**CV**](https://amrjd279.github.io/Projet-CV-JS_jQuery/)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrjd279&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-> ### 💡 *« Je transforme vos idées, en sites performants »*
+# 🐍 Mes contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Objectifs
+
+```text
+[████████████████████] Développement Web
+[██████████████████░░] Python
+[████████████████░░░░] Java
+[██████████████░░░░░░] Bases de données
+[██████████████░░░░░░] Réseaux
+[████████████░░░░░░░░] Docker
+[██████████░░░░░░░░░░] Kubernetes
+[████████░░░░░░░░░░░░] Cloud
+```
+
+### 🚀 Ce que je veux continuer à apprendre
+
+- ☁️ Cloud Computing
+- 🐳 Docker & Kubernetes
+- 🔐 Cybersécurité
+- ⚛️ React & développement moderne
+- 🐍 Python avancé
+- 🗄️ Architecture des bases de données
+- 🌐 Administration réseau
+- 🤖 Intelligence artificielle
+
+---
+
+# 📫 Me contacter
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amr-jaddad-605737395/">
+<img src="https://img.shields.io/badge/LinkedIn-Amr%20Jaddad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://amrjd279.github.io/Projet-CV-JS_jQuery/">
+<img src="https://img.shields.io/badge/Mon%20CV-Visiter-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amrjd279">
+<img src="https://img.shields.io/badge/GitHub-amrjd279-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *« Transformer une idée en solution. »*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Code+%F0%9F%92%BB;Learn+%F0%9F%A7%A0;Build+%F0%9F%9A%80;Improve+%F0%9F%94%A5;Repeat+%E2%9C%A8" alt="Typing animation"/>
+
+<br><br>
+
+⭐ **Merci d'avoir visité mon profil !** ⭐
+
+</div>
