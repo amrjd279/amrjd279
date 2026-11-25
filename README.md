@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yooo, it's me **Amr**
+# 👋 Yooo, it's **Amr**
 
 ### 💻 Étudiant en Informatique · Développeur Web en devenir · Passionné par la technologie
 
